@@ -1,0 +1,13 @@
+body{
+  align-items: center;
+  justify-content:center;
+background-color: greenyellow;
+margin: 100px;
+padding: 200px;
+
+
+}
+.comments{
+  height: 100px;
+  width: 1000px;
+}
